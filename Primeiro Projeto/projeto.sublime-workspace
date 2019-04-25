@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg-d",
+				"bg-dark"
+			],
+			[
+				"na",
+				"nav-pills"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-right"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"textr",
+				"text-transform\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"auto\tflex-basis"
+			],
+			[
+				"fl",
+				"flex-basis\tproperty"
+			],
+			[
+				"item",
+				"item1"
+			],
+			[
+				"ordem",
+				"ordem4"
+			],
+			[
+				"orde",
+				"ordem2"
+			],
+			[
+				"or",
+				"ordem1"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"mte",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"test",
+				"text-transform\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"bordec",
+				"border-collapse\tproperty"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ita",
+				"italico"
+			],
+			[
+				"fonte",
+				"font-stretch\tproperty"
+			],
+			[
+				"bors",
+				"border-style\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Graziele Pires/Desktop/Web 2.0",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/JavaScript"
+	],
+	"file_history":
+	[
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/finans/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/projeto-bootstrap4/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-classes-flexbox.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-alinhamento-grid.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-configuracao-grid.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-grid.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-font-awesome.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-tabela-paginacao.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-cartoes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-jumbotron.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-input-group.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-alertas-progresso.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-formulario.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-lista.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-barra-navegacao.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-botoes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-breakpoints.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/media-queries/estilo-expressao.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/media-queries/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/media-queries/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-margin-padding.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-tamanho-bordas.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/alinhamento-textos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/elementos-flutuantes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/apoio-cores-background.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/css/bootstrap.min.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/bootstrap4/css/bootstrap.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto Museu Nacional/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto Museu Nacional/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto Museu Nacional/css/normalize.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/css/normalize.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto Museu Nacional/js/html5shiv.js",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/js/html5shiv.js",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/flexbox.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/novas-tags-input.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/HTML5/novas-tags.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/transicoes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/animacoes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/sombra.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/degrade.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/border.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/normalize.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/CSS3 Recursos/css/normalize.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/fontes/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Parallax/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Parallax/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Chalé/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Chalé/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Site-noticias/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Site-noticias/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Site-noticias/brasil.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Site-noticias/nova-legislacao.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Site-noticias/fotos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/tratamento-imagens.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/css/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/formulario-2.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/formularios.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/tabelas.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/layout.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/index-abas.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/index-horizontal.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/navegacao-vertical.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/seletores.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario Avançado/heranca.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/modelo-caixa.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/Projeto 2 - CSS3/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/Projeto 2 - CSS3/CSS/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/links.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/posicionamento.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/sobrepondo-elementos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/elementos-inline-block.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3 - Intermediario/elementos-flutuantes.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/bordas.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto1-CSS/campanha-pub.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto1-CSS/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto1-CSS/contato.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto1-CSS/biografia.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Projeto1-CSS/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/projeto1.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/pagina1.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/pagina2.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/estilo.css",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/cor-imagem-fundo.htmal.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/tamanhos-textos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/fonte-cores.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/div-span.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/classes-ids.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoCSS3/inline_style.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoFinalHTML/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoFinalHTML/contato.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/ProjetoFinalHTML/quem-somos.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/caracteres_especiais",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/projeto_final",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/index.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/formulario.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/formulario",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/tabela.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/contato.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/projeto.html",
+		"/C/Users/Graziele Pires/Desktop/Web 2.0/Primeiro Projeto/desafio.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			")</",
+			"class",
+			"\t\n",
+			"*/\n",
+			"; ",
+			"0px",
+			"Contato"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
